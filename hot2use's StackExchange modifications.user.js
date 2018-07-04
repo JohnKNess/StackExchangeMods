@@ -31,5 +31,5 @@
 }
 
 
-    addGlobalStyle('.question-status{margin-top:15px;margin-bottom:10px;padding:15px 8px 1px 60px;background-color:#e2e210;border:1px solid rgba(83,90,96,0.1);clear:both}');
+    addGlobalStyle('.question-status{margin-top:15px;margin-bottom:10px;padding:15px 8px 1px 60px;background-color:#eeee10;border:1px solid rgba(226, 16, 21, 0.5);clear:both}');
 })();
