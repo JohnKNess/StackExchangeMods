@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hot2use's StackExchange modifications
 // @namespace    https://www.github.com/JohnKNess/StackExchangeMods
-// @version      0.1
+// @version      0.1.1
 // @description  Modify various .CSS settings
 // @author       hot2use / JohnKNess
 // == Matches Sites
